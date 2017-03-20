@@ -73,9 +73,9 @@ public class XMLConfigParser {
                 }
                 
             }
-            System.out.println("修改base版本Mybatis");
-            System.out.println("修改base版本Mybatis");
-            System.out.println("修改base版本Mybatis");
+            System.out.println("修改fork版本Mybatis");
+            System.out.println("修改fork版本Mybatis");
+            System.out.println("修改fork版本Mybatis");
         }
         
         return null;
